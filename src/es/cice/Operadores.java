@@ -15,6 +15,8 @@ public class Operador {
 
     public static void main(String[] args) {
 
+
+        System.out.println( "Operadores de Relacion:" );
         System.out.println(r1);
         System.out.println(r2);
         System.out.println(r3);
@@ -22,6 +24,12 @@ public class Operador {
         System.out.println(r5);
         System.out.println(r6);
 
+        System.out.println( "Operadores Logicos:" );
+        System.out.println( (r1 && r2) );
+        System.out.println( (r2 || r3) );
+        System.out.println( (!r4) );
+        System.out.println( (r1 && r2) );
+        System.out.println( (r5 ^ r6) );
     }
 }
 
