@@ -1,6 +1,6 @@
 package es.cice;
 
-public class Array {
+public class Saco {
 
     public static void main(String[] args) {
 

@@ -1,6 +1,6 @@
 package es.cice;
 
-public class Operador {
+class Operadores {
 
     //Operadores de relacion ->, <; >;<=,>=, !=,==;
     //Relacionan dos objetos o variables para conseguir true o false
